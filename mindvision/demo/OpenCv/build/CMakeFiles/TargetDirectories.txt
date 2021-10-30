@@ -1,0 +1,3 @@
+/home/coshe/mindvision/demo/OpenCv/build/CMakeFiles/rebuild_cache.dir
+/home/coshe/mindvision/demo/OpenCv/build/CMakeFiles/edit_cache.dir
+/home/coshe/mindvision/demo/OpenCv/build/CMakeFiles/mind.dir

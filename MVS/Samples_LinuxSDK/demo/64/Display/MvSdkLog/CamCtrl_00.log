@@ -1,0 +1,28 @@
+[2021-05-28 15:29:20] | CInterfaceManager.cpp-L4678: CamCtrl[2020009], U3V SDKVersion(1020009), DriverVersion(0)
+[2021-05-28 15:29:22] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [395264]
+[2021-05-28 15:29:22] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[-1848666368]
+[2021-05-28 15:29:22] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[-1857059072]
+[2021-05-28 15:29:22] |         MvRender.cpp-L0184: RenderMode D3D
+[2021-07-17 19:15:36] | CInterfaceManager.cpp-L4678: CamCtrl[2020009], U3V SDKVersion(1020009), DriverVersion(0)
+[2021-07-17 19:15:37] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [616448]
+[2021-07-17 19:15:37] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[-1686116608]
+[2021-07-17 19:15:37] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[-1694509312]
+[2021-07-17 19:15:37] |         MvRender.cpp-L0184: RenderMode D3D
+[2021-07-17 19:15:50] | CInterfaceManager.cpp-L1208: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2021-07-17 19:15:50] | CInterfaceManager.cpp-L4323: DisplayProcess exit
+[2021-07-17 19:15:50] | CInterfaceManager.cpp-L4475: RecvThreadProcess exit
+[2021-07-17 19:16:47] | CInterfaceManager.cpp-L4678: CamCtrl[2020009], U3V SDKVersion(1020009), DriverVersion(0)
+[2021-07-17 19:16:47] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [309248]
+[2021-07-17 19:16:47] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[1624200960]
+[2021-07-17 19:16:47] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[1409283840]
+[2021-07-17 19:16:47] |         MvRender.cpp-L0184: RenderMode D3D
+[2021-07-17 19:39:37] | CInterfaceManager.cpp-L4678: CamCtrl[2020009], U3V SDKVersion(1020009), DriverVersion(0)
+[2021-07-17 19:39:37] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [198656]
+[2021-07-17 19:39:37] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[1305450240]
+[2021-07-17 19:39:37] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[1297057536]
+[2021-07-17 19:39:37] |         MvRender.cpp-L0184: RenderMode D3D
+[2021-07-22 17:15:05] | CInterfaceManager.cpp-L4678: CamCtrl[2020009], U3V SDKVersion(1020009), DriverVersion(0)
+[2021-07-22 17:15:06] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [309248]
+[2021-07-22 17:15:06] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[494896896]
+[2021-07-22 17:15:06] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[481150720]
+[2021-07-22 17:15:06] |         MvRender.cpp-L0184: RenderMode D3D

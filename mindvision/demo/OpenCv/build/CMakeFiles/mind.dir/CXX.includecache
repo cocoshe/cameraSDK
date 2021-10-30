@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/coshe/mindvision/demo/OpenCv/main.cpp
+CameraApi.h
+/home/coshe/mindvision/demo/OpenCv/CameraApi.h
+opencv4/opencv2/core/core.hpp
+/home/coshe/mindvision/demo/OpenCv/opencv4/opencv2/core/core.hpp
+opencv4/opencv2/highgui/highgui.hpp
+/home/coshe/mindvision/demo/OpenCv/opencv4/opencv2/highgui/highgui.hpp
+stdio.h
+-
+
